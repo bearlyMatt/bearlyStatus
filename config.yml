@@ -90,7 +90,7 @@ defaultContentLanguage: en
 # localhost should automatically work.
 #
 # Example: https://status.example.com/
-baseURL: https://thirsty-spence-51a719.netlify.app
+baseURL: https://bearlystatus.netlify.app
 
 ############################################################
 # +------------------------------------------------------+ #
