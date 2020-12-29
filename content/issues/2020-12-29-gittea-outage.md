@@ -8,6 +8,7 @@ informational: false
 resolvedWhen: ""
 affected:
   - MatthewHarazim.co.uk
+  - gittea
 severity: down
 ---
 *Low Priority* - Gittea has been offline due to internal network routing errors. This service has been marked as low priority, and has no resolution planned for the foreseeable future
