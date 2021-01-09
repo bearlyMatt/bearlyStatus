@@ -5,7 +5,7 @@ date: 2020-12-29T18:00:06.970Z
 resolved: true
 draft: false
 informational: false
-resolvedWhen: ""
+resolvedWhen: 2021-01-09T21:16:21.718Z
 affected:
   - Eskibles.us
 severity: notice
