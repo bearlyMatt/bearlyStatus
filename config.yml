@@ -164,7 +164,12 @@ params:
     - name: Plane Invoice
       description: Invoicing software for bearSound Studio
       category: bearSoundStudio.com
-
+    - name: Polaris
+      description: Music streaming server
+      category: Eskibles.us
+    - name: Jellyfin
+      description: Selfhosted Netflix alternative
+      category: Eskibles.us
   # What date format to use?
   #
   # Hugo formatting docs:
