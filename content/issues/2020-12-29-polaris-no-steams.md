@@ -1,14 +1,16 @@
 ---
 section: issue
-title: Polaris - No Streams *UPDATED 06-01-2021*
+title: Polaris - No Streams *UPDATED 08-01-2021*
 date: 2020-12-29T18:00:06.970Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 resolvedWhen: ""
 affected:
   - Eskibles.us
 severity: notice
+---
+The current issue has been resolved. Polaris is now fully functioning.
 ---
 
 *Update* - streams have been rectified, however the application is no longer running. **This is a priority**.
